@@ -7,4 +7,7 @@ The data background in this research starts with the emergence of the Corona Vir
 * This research aims to provide an understanding of the learning situation during the COVID-19 pandemic, particularly in in Delhi National Capital Region (NCR) and other areas.
 * Statistical data and visualization will be presented to provide an overview of the learning situation and student satisfaction with online classes during the pandemic.
 
+Resources:
+* Journal: https://www.sciencedirect.com/science/article/pii/S019074092032288X
+* Dataset: https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students
 
